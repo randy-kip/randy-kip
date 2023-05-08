@@ -23,3 +23,41 @@ Here are some ideas to get you started:
    </p>
 
 ---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"/>
+<img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/>
+          
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<br />
+
+#
+
+
+### 📊 Stats
+
+![RK's GitHub stats](https://github-readme-stats.vercel.app/api?username=randy-kip&show_icons=true&theme=radical)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+[![RK's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=randy-kip&&theme=xcode)](https://github.com/rishavchanda)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=randy-kip&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="randy-kip" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=randy-kip&show_icons=true&locale=en&theme=tokyonight" alt="randy-kip" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randy-kip&&theme=tokyonight" alt="randy-kip" /></p>
+
+#
+
+<details>
+      <summary><h3>👨‍💻 RK</h3></summary>
