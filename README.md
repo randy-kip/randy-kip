@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=randy-kip&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="randy-kip" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=randy-kip&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="randy-kip" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=randy-kip&show_icons=true&locale=en&theme=highcontrast" alt="randy-kip" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=randy-kip&show_icons=true&locale=en&theme=highcontrast" alt="randy-kip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randy-kip&&theme=highcontrast" alt="randy-kip" /></p>
 
@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 
 <details>
       <summary><h3>👨‍💻 RK</h3></summary>
-      <p>Follow me for some amazing Projects Ahead!</p>
+      <p>Amazing Projects Ahead!</p>
