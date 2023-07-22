@@ -55,14 +55,14 @@ Here are some ideas to get you started:
 <br />
 
 #
-
+<br />
 ### 📊 Stats
-
+<br />
 <!-- ![RK's GitHub stats](https://github-readme-stats.vercel.app/api?username=randy-kip&show_icons=true&theme=radical) -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=randy-kip&show_icons=true&locale=en&layout=compact&theme=highcontrast" style="margin-bottom: 10px;" alt="randy-kip" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=randy-kip&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="randy-kip" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=randy-kip&show_icons=true&locale=en&theme=highcontrast" alt="randy-kip" /></p>
 
