@@ -4,7 +4,8 @@
          height="45"
          width="45" />, I'm Randy... call me RK🕶️</h1>
 <h3 align="center">A FullStack Web Dev</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
+<a href="https://app.daily.dev/rk_4"><img  align="right" src="https://api.daily.dev/devcards/5a9bcb5c92904c91abf4d902d0938acf.png?r=70f" width="250" alt="Randy K's Dev Card"/></a>
 
 
 <!--
@@ -67,6 +68,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=randy-kip&show_icons=true&locale=en&theme=highcontrast" alt="randy-kip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randy-kip&&theme=highcontrast" alt="randy-kip" /></p>
+
 
 #
 
