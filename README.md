@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 ---
 
-- 🔭 I’m currently working on **Auctioneers Web App**
-- 🌱 I’m currently learning **Redux**
+- 🔭 I’m currently working on **iTalanta Elewa Website**
+- 🌱 I’m currently learning **Angular JS**
 - 💬 Ask me about **ReactJS and Ruby on Rails**
 
 ---
