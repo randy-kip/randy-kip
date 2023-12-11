@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 ---
 
-- 🔭 I’m currently working on **iTalanta Elewa Website**
-- 🌱 I’m currently learning **Angular JS**
+- 🔭 I’m currently working on **NomadBunk Website**
+- 🌱 I’m currently deeply exploring **Ruby & Rails**
 - 💬 Ask me about **ReactJS and Ruby on Rails**
 
 ---
