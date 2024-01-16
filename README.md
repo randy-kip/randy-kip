@@ -68,8 +68,9 @@ Here are some ideas to get you started:
 &nbsp; -->
 <p><!-- &nbsp; --><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=randy-kip&show_icons=true&locale=en&theme=highcontrast" alt="randy-kip" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randy-kip&&theme=highcontrast" alt="randy-kip" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randy-kip&&theme=sunset-gradient" alt="randy-kip" /></p> -->
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=randy-kip&theme=sunset-gradient" alt="GitHub Streak" /></a>
 
 #
 
