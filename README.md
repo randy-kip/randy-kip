@@ -5,9 +5,9 @@
          width="45" />, I'm Randy... call me RK🕶️</h1>
 <h3 align="center">A FullStack Web Dev</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
-<!-- <a href="https://app.daily.dev/rk_4"><img  align="right" src="https://api.daily.dev/devcards/5a9bcb5c92904c91abf4d902d0938acf.png?r=70f" width="300" alt="Randy K's Dev Card"/></a> -->
+<a href="https://app.daily.dev/rk_4"><img  align="right" src="https://api.daily.dev/devcards/5a9bcb5c92904c91abf4d902d0938acf.png?r=70f" width="300" alt="Randy K's Dev Card"/></a>
 
-<a href="https://app.daily.dev/rk_4"><img align="right" src="./devcard.png" width="300" alt="Randy's V2 Daily Dev Card"/></a>
+<!--<a href="https://app.daily.dev/rk_4"><img align="right" src="./devcard.png" width="300" alt="Randy's V2 Daily Dev Card"/></a> -->
 
 
 <!--
