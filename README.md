@@ -9,6 +9,8 @@
 
 <!--<a href="https://app.daily.dev/rk_4"><img align="right" src="./devcard.png" width="300" alt="Randy's V2 Daily Dev Card"/></a> -->
 
+<!-- <a href="https://app.daily.dev/rk_4"><img align="right" src="https://api.daily.dev/devcards/v2/IIAwLDXXINjaUFK9AFi7P.png?type=default&r=fd7" width="300" alt="Randy K's Dev Card"/></a> -->
+
 
 <!--
 **randy-kip/randy-kip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
