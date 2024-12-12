@@ -74,8 +74,11 @@ Here are some ideas to get you started:
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randy-kip&&theme=sunset-gradient" alt="randy-kip" /></p> -->
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=randy-kip&theme=sunset-gradient" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=randy-kip&theme=sunset-gradient" alt="GitHub Streak" /></a> -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=randy-kip&theme=radical)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=randy-kip&theme=radical" alt="GitHub Streak" /></a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=randy-kip&theme=catppuccin-frappe)](https://git.io/streak-stats) -->
 #
 
 <details>
