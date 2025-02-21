@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-- 🔭 I’m currently working on **Nahla Naturals NextJS/Sanity eCommerce Store**
+- 🔭 I’m currently working on **Personal Portfolio/Freelance Prediction Data Analysis**
 - 🌱 I’m currently deeply exploring **Quantum Computing**
 - 💬 Ask me about **ReactJS and Ruby on Rails**
 
