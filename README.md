@@ -72,10 +72,10 @@
 
 ### 📊 Stats
 
-<!-- Cards are generated daily by .github/workflows/profile-cards.yml using the repo's own token — no external server to break. -->
+<!-- Cards are generated daily by .github/workflows/profile-cards.yml and published to the `output` branch. -->
 <p align="center">
-  <img height="170" src="./profile/stats.svg" alt="RK's GitHub stats" />
-  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+  <img height="170" src="https://raw.githubusercontent.com/randy-kip/randy-kip/output/stats.svg" alt="RK's GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/randy-kip/randy-kip/output/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -83,12 +83,5 @@
 </p>
 
 <p align="center">
-  <img src="./profile/snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/randy-kip/randy-kip/output/snake.svg" alt="Contribution snake" />
 </p>
-
----
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
