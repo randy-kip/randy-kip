@@ -19,8 +19,8 @@
 
 ---
 
-- 🚀 Building **[Kidaflow](https://kidaflow.com)** — taking businesses to the next level
-- 🤖 Building **[Simply Done Africa](https://simplydoneafrica.com)** — AI agents & automation for African businesses
+- 🚀 Building **[KiDaFlow](https://kidaflow.com)** — taking businesses to the next level
+- 🤖 Building **[SimplyDone Africa](https://simplydoneafrica.com)** — AI agents & automation for African businesses
 - 🧠 Shipping with **Claude Code, Codex, n8n & GoHighLevel**
 - 💬 Ask me about **AI automation, React & Ruby on Rails**
 
