@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/randy-kip">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=F9D94B&center=true&vCenter=true&width=620&lines=Full-Stack+Dev+%E2%86%92+AI+%26+Automation+Builder;I+build+AI+agents+that+run+businesses+%F0%9F%A4%96;Building+Kidaflow+%26+Simply+Done+Africa+%F0%9F%9A%80;Claude+Code+%C2%B7+Codex+%C2%B7+n8n+%C2%B7+GoHighLevel+%E2%9A%A1" alt="Full-Stack Dev → AI & Automation Builder" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=F9D94B&center=true&vCenter=true&width=620&lines=Full-Stack+Dev+%E2%86%92+AI+%26+Automation+Builder;I+build+AI+agents+that+run+businesses+%F0%9F%A4%96;Building+KiDaFlow+%26+SimplyDone+Africa+%F0%9F%9A%80;Claude+Code+%C2%B7+Codex+%C2%B7+n8n+%C2%B7+GoHighLevel+%E2%9A%A1" alt="Full-Stack Dev → AI & Automation Builder" />
   </a>
 </p>
 
