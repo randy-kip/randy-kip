@@ -46,7 +46,9 @@
   <img alt="Hugging Face" title="Hugging Face" width="32" height="32" src="./profile/icons/huggingface.svg" />
 &nbsp;&nbsp;
   <img alt="LangChain" title="LangChain" width="32" height="32" src="./profile/icons/langchain.svg" />
-&nbsp;&nbsp;
+</p>
+
+<p>
   <img alt="n8n" title="n8n" width="32" height="32" src="./profile/icons/n8n.svg" />
 &nbsp;&nbsp;
   <img alt="Make" title="Make" width="32" height="32" src="./profile/icons/make.svg" />
