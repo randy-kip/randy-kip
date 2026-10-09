@@ -1,10 +1,12 @@
 <a href="https://github.com/randy-kip"><img src="./profile/hero.svg" width="100%" alt="AI agent wired to CRM, chat, workflows, invoices and calendar" /></a>
 <!-- Previous masthead: [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*SazB8drLx74W-bFBqag9zA.gif)](https://github.com/randy-kip) -->
-<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Randy... call me RK🕶️</h1>
-<h3 align="center">Full-Stack Dev · AI & Automation Builder</h3>
+<h1 align="center">Hey, I'm Randy <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="40" width="40" /> call me <b>RK</b> 🕶️</h1>
+
+<p align="center">
+  <a href="https://github.com/randy-kip">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=F9D94B&center=true&vCenter=true&width=620&lines=Full-Stack+Dev+%E2%86%92+AI+%26+Automation+Builder;I+build+AI+agents+that+run+businesses+%F0%9F%A4%96;Building+Kidaflow+%26+Simply+Done+Africa+%F0%9F%9A%80;Claude+Code+%C2%B7+Codex+%C2%B7+n8n+%C2%B7+GoHighLevel+%E2%9A%A1" alt="Full-Stack Dev → AI & Automation Builder" />
+  </a>
+</p>
 
 <a href="https://app.daily.dev/rk_4"><img align="right" src="https://api.daily.dev/devcards/5a9bcb5c92904c91abf4d902d0938acf.png?r=70f" width="300" alt="Randy K's Dev Card"/></a>
 
