@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="Animated illustration: an AI agent wired to a CRM, chat, workflows, invoices and a calendar">
+  <title>RK — AI &amp; automation hub</title>
+  <style>
+    :root { --ink:#2d2a3e; }
+    .ink { stroke:#2d2a3e; stroke-width:6; stroke-linejoin:round; stroke-linecap:round; }
+    .wire { fill:none; stroke:#2d2a3e; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+    .pulse { fill:none; stroke:#fff6d5; stroke-width:3.5; stroke-linecap:round; stroke-dasharray:6 38; animation:flow 1.6s linear infinite; }
+    .pulse.rev { animation-direction:reverse; }
+    .pulse.slow { animation-duration:2.4s; }
+    .fb { transform-box:fill-box; transform-origin:center; }
+    .fbb { transform-box:fill-box; transform-origin:bottom; }
+    .mono { font-family:'Fira Code',Consolas,'Courier New',monospace; }
+    .sans { font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif; font-weight:800; }
+
+    @keyframes flow { to { stroke-dashoffset:-44; } }
+    @keyframes bob { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-6px); } }
+    @keyframes blink { 0%,92%,100% { transform:scaleY(1); } 95% { transform:scaleY(.1); } }
+    @keyframes led { 0%,100% { opacity:.25; } 50% { opacity:1; } }
+    @keyframes spin { to { transform:rotate(360deg); } }
+    @keyframes spinr { to { transform:rotate(-360deg); } }
+    @keyframes grow { 0%,10% { transform:scaleY(.15); } 45%,85% { transform:scaleY(1); } 100% { transform:scaleY(.15); } }
+    @keyframes caret { 50% { opacity:0; } }
+    @keyframes l1 { 0%,4% { opacity:0; } 8%,88% { opacity:1; } 94%,100% { opacity:0; } }
+    @keyframes l2 { 0%,18% { opacity:0; } 22%,88% { opacity:1; } 94%,100% { opacity:0; } }
+    @keyframes l3 { 0%,34% { opacity:0; } 38%,88% { opacity:1; } 94%,100% { opacity:0; } }
+    @keyframes l4 { 0%,50% { opacity:0; } 54%,88% { opacity:1; } 94%,100% { opacity:0; } }
+    @keyframes l5 { 0%,66% { opacity:0; } 70%,88% { opacity:1; } 94%,100% { opacity:0; } }
+    @keyframes chat1 { 0%,8% { opacity:0; transform:translateY(8px); } 14%,88% { opacity:1; transform:none; } 95%,100% { opacity:0; } }
+    @keyframes chat2 { 0%,30% { opacity:0; transform:translateY(8px); } 36%,88% { opacity:1; transform:none; } 95%,100% { opacity:0; } }
+    @keyframes chat3 { 0%,52% { opacity:0; transform:translateY(8px); } 58%,88% { opacity:1; transform:none; } 95%,100% { opacity:0; } }
+    @keyframes pop { 0%,55% { transform:scale(0); } 62% { transform:scale(1.25); } 68%,90% { transform:scale(1); } 100% { transform:scale(0); } }
+    @keyframes print { 0% { transform:translateY(0); } 70%,90% { transform:translateY(-62px); } 100% { transform:translateY(0); } }
+    @keyframes stamp { 0%,62% { opacity:0; transform:scale(1.6) rotate(-14deg); } 68%,90% { opacity:1; transform:scale(1) rotate(-14deg); } 100% { opacity:0; transform:scale(1) rotate(-14deg); } }
+    @keyframes node { 0%,100% { fill:#fff6d5; } 50% { fill:#7cf29a; } }
+    @keyframes antenna { 0%,100% { fill:#ff6b6b; } 50% { fill:#fff6d5; } }
+    @keyframes mail { 0%,100% { transform:translate(0,0) rotate(-6deg); } 50% { transform:translate(0,-8px) rotate(4deg); } }
+
+    .bob { animation:bob 3s ease-in-out infinite; }
+    .eye { animation:blink 4s infinite; }
+    .led { animation:led 1.2s ease-in-out infinite; }
+    .gear { animation:spin 6s linear infinite; }
+    .gearr { animation:spinr 4s linear infinite; }
+    .bar { animation:grow 6s ease-in-out infinite; }
+    .caret { animation:caret 1s steps(1) infinite; }
+  </style>
+
+  <rect width="1200" height="520" fill="#f9d94b"/>
+
+  <!-- ===================== WIRES ===================== -->
+  <g>
+    <path id="w1" class="wire" d="M450 232 H380 V118 H286"/>
+    <path id="w2" class="wire" d="M450 272 H340 V318 H214"/>
+    <path id="w3" class="wire" d="M450 352 H410 V398 H364"/>
+    <path id="w4" class="wire" d="M250 398 H128 V430"/>
+    <path id="w5" class="wire" d="M750 232 H820 V118 H906"/>
+    <path id="w6" class="wire" d="M750 272 H870 V300 H960"/>
+    <path id="w7" class="wire" d="M750 352 H808 V440 H862"/>
+    <path id="w8" class="wire" d="M286 70 H430 V82 H548"/>
+    <path id="w9" class="wire" d="M652 82 H780 V70 H906"/>
+    <path id="w10" class="wire" d="M600 430 V462"/>
+  </g>
+  <g>
+    <path class="pulse" d="M450 232 H380 V118 H286"/>
+    <path class="pulse rev" d="M450 272 H340 V318 H214"/>
+    <path class="pulse slow" d="M450 352 H410 V398 H364"/>
+    <path class="pulse rev slow" d="M250 398 H128 V430"/>
+    <path class="pulse" d="M750 232 H820 V118 H906"/>
+    <path class="pulse rev" d="M750 272 H870 V300 H960"/>
+    <path class="pulse" d="M750 352 H808 V440 H862"/>
+    <path class="pulse slow" d="M286 70 H430 V82 H548"/>
+    <path class="pulse rev slow" d="M652 82 H780 V70 H906"/>
+  </g>
+
+  <!-- ===================== ROBOT (AI) ===================== -->
+  <path class="ink" fill="none" d="M600 124 l-18 8 l36 8 l-36 8 l36 8 l-36 8 l36 8 l-18 8 V190"/>
+  <g class="bob fb">
+    <line class="ink" x1="600" y1="40" x2="600" y2="22"/>
+    <circle cx="600" cy="16" r="8" class="ink" style="animation:antenna 1.4s infinite" fill="#ff6b6b"/>
+    <rect x="548" y="40" width="104" height="84" rx="18" fill="#fff6d5" class="ink"/>
+    <rect x="562" y="56" width="76" height="40" rx="10" fill="#2d2a3e"/>
+    <rect class="eye fb" x="578" y="66" width="12" height="18" rx="6" fill="#7cf29a"/>
+    <rect class="eye fb" x="610" y="66" width="12" height="18" rx="6" fill="#7cf29a"/>
+    <rect x="580" y="104" width="40" height="8" rx="4" fill="#2d2a3e"/>
+    <rect x="536" y="70" width="12" height="26" rx="4" fill="#fff6d5" class="ink"/>
+    <rect x="652" y="70" width="12" height="26" rx="4" fill="#fff6d5" class="ink"/>
+  </g>
+
+  <!-- ===================== MONITOR / TERMINAL ===================== -->
+  <rect x="438" y="224" width="16" height="16" rx="3" fill="#fff6d5" class="ink"/>
+  <rect x="438" y="264" width="16" height="16" rx="3" fill="#fff6d5" class="ink"/>
+  <rect x="438" y="344" width="16" height="16" rx="3" fill="#fff6d5" class="ink"/>
+  <rect x="746" y="224" width="16" height="16" rx="3" fill="#fff6d5" class="ink"/>
+  <rect x="746" y="264" width="16" height="16" rx="3" fill="#fff6d5" class="ink"/>
+  <rect x="746" y="344" width="16" height="16" rx="3" fill="#fff6d5" class="ink"/>
+  <rect x="450" y="190" width="300" height="206" rx="12" fill="#fff6d5" class="ink"/>
+  <rect x="468" y="208" width="264" height="156" rx="4" fill="#2d2a3e"/>
+  <circle cx="482" cy="220" r="4" fill="#ff6b6b"/><circle cx="496" cy="220" r="4" fill="#f9d94b"/><circle cx="510" cy="220" r="4" fill="#7cf29a"/>
+  <g class="mono" font-size="13" fill="#fff6d5">
+    <text x="480" y="248" style="animation:l1 9s infinite"><tspan fill="#7cf29a">$</tspan> claude "automate my biz"</text>
+    <text x="480" y="270" style="animation:l2 9s infinite"><tspan fill="#f9d94b">●</tspan> new lead → CRM</text>
+    <text x="480" y="292" style="animation:l3 9s infinite"><tspan fill="#f9d94b">●</tspan> WhatsApp reply sent</text>
+    <text x="480" y="314" style="animation:l4 9s infinite"><tspan fill="#f9d94b">●</tspan> invoice #0427 paid</text>
+    <text x="480" y="336" style="animation:l5 9s infinite"><tspan fill="#7cf29a">✓</tspan> call booked for 10:00</text>
+    <rect class="caret" x="480" y="344" width="9" height="14" fill="#7cf29a"/>
+  </g>
+  <rect x="575" y="396" width="50" height="26" fill="#fff6d5" class="ink"/>
+  <rect x="530" y="420" width="140" height="14" rx="7" fill="#fff6d5" class="ink"/>
+  <!-- AI AGENT sticker -->
+  <g transform="rotate(4 712 350)">
+    <rect x="676" y="314" width="72" height="74" fill="#f9d94b" class="ink"/>
+    <text x="712" y="356" text-anchor="middle" class="sans" font-size="30" fill="#2d2a3e">AI</text>
+    <rect x="676" y="366" width="72" height="22" fill="#2d2a3e"/>
+    <text x="712" y="382" text-anchor="middle" class="sans" font-size="12" fill="#f9d94b" letter-spacing="1">AGENT</text>
+  </g>
+
+  <!-- ===================== SERVER RACK ===================== -->
+  <rect x="420" y="462" width="360" height="44" rx="6" fill="#fff6d5" class="ink"/>
+  <g fill="#2d2a3e">
+    <rect x="440" y="474" width="90" height="8" rx="2"/><rect x="440" y="488" width="90" height="8" rx="2"/>
+    <rect x="670" y="474" width="90" height="8" rx="2"/><rect x="670" y="488" width="90" height="8" rx="2"/>
+  </g>
+  <g>
+    <circle class="led" cx="560" cy="484" r="5" fill="#7cf29a"/>
+    <circle class="led" cx="580" cy="484" r="5" fill="#7cf29a" style="animation-delay:.3s"/>
+    <circle class="led" cx="600" cy="484" r="5" fill="#ff6b6b" style="animation-delay:.6s"/>
+    <circle class="led" cx="620" cy="484" r="5" fill="#7cf29a" style="animation-delay:.9s"/>
+    <circle class="led" cx="640" cy="484" r="5" fill="#7cf29a" style="animation-delay:.15s"/>
+  </g>
+
+  <!-- ===================== CRM DASHBOARD ===================== -->
+  <rect x="76" y="36" width="210" height="160" rx="10" fill="#fff6d5" class="ink"/>
+  <rect x="76" y="36" width="210" height="28" rx="10" fill="#2d2a3e"/>
+  <rect x="76" y="54" width="210" height="10" fill="#2d2a3e"/>
+  <text x="92" y="56" class="sans" font-size="14" fill="#f9d94b" letter-spacing="1">CRM · LEADS</text>
+  <line x1="96" y1="178" x2="268" y2="178" class="ink" stroke-width="4"/>
+  <g fill="#2d2a3e">
+    <rect class="bar fbb" x="104" y="130" width="22" height="46" rx="3"/>
+    <rect class="bar fbb" x="136" y="110" width="22" height="66" rx="3" style="animation-delay:.3s"/>
+    <rect class="bar fbb" x="168" y="120" width="22" height="56" rx="3" style="animation-delay:.6s"/>
+    <rect class="bar fbb" x="200" y="92" width="22" height="84" rx="3" style="animation-delay:.9s" fill="#6d28d9"/>
+    <rect class="bar fbb" x="232" y="78" width="22" height="98" rx="3" style="animation-delay:1.2s" fill="#6d28d9"/>
+  </g>
+
+  <!-- ===================== PHONE / CHAT ===================== -->
+  <rect x="122" y="236" width="92" height="160" rx="16" fill="#fff6d5" class="ink"/>
+  <rect x="134" y="256" width="68" height="118" rx="4" fill="#2d2a3e"/>
+  <rect x="156" y="244" width="24" height="5" rx="2.5" fill="#2d2a3e"/>
+  <circle cx="168" cy="384" r="5" fill="#2d2a3e"/>
+  <g class="fb" style="animation:chat1 9s infinite"><rect x="140" y="266" width="44" height="22" rx="8" fill="#fff6d5"/><rect x="146" y="275" width="30" height="4" rx="2" fill="#2d2a3e"/></g>
+  <g class="fb" style="animation:chat2 9s infinite"><rect x="152" y="296" width="44" height="22" rx="8" fill="#7cf29a"/><rect x="158" y="305" width="30" height="4" rx="2" fill="#2d2a3e"/></g>
+  <g class="fb" style="animation:chat3 9s infinite"><rect x="140" y="326" width="50" height="30" rx="8" fill="#fff6d5"/><rect x="146" y="334" width="36" height="4" rx="2" fill="#2d2a3e"/><rect x="146" y="343" width="24" height="4" rx="2" fill="#2d2a3e"/></g>
+
+  <!-- ===================== GEARS ===================== -->
+  <rect x="250" y="358" width="114" height="80" rx="10" fill="#fff6d5" class="ink"/>
+  <g class="gear fb">
+    <circle cx="284" cy="398" r="20" fill="none" stroke="#2d2a3e" stroke-width="10" stroke-dasharray="6 4.5"/>
+    <circle cx="284" cy="398" r="15" fill="#2d2a3e"/><circle cx="284" cy="398" r="5" fill="#fff6d5"/>
+  </g>
+  <g class="gearr fb">
+    <circle cx="332" cy="398" r="15" fill="none" stroke="#2d2a3e" stroke-width="9" stroke-dasharray="5 4"/>
+    <circle cx="332" cy="398" r="10" fill="#2d2a3e"/><circle cx="332" cy="398" r="4" fill="#fff6d5"/>
+  </g>
+
+  <!-- ===================== EMAIL ===================== -->
+  <g class="fb" style="animation:mail 3.4s ease-in-out infinite">
+    <rect x="84" y="430" width="88" height="60" rx="6" fill="#fff6d5" class="ink"/>
+    <path d="M86 434 L128 466 L170 434" fill="none" class="ink"/>
+  </g>
+
+  <!-- ===================== WORKFLOW ===================== -->
+  <rect x="906" y="36" width="230" height="160" rx="10" fill="#fff6d5" class="ink"/>
+  <rect x="906" y="36" width="230" height="28" rx="10" fill="#2d2a3e"/>
+  <rect x="906" y="54" width="230" height="10" fill="#2d2a3e"/>
+  <text x="922" y="56" class="sans" font-size="14" fill="#f9d94b" letter-spacing="1">WORKFLOW</text>
+  <path class="wire" stroke-width="5" d="M968 112 H1004 M1060 112 H1080 V150 H1040 M988 112 V160 H1024"/>
+  <path class="pulse" stroke-width="2.5" stroke="#6d28d9" d="M968 112 H1004 M1060 112 H1080 V150 H1040"/>
+  <rect x="926" y="94" width="42" height="36" rx="8" class="ink" style="animation:node 2s infinite"/>
+  <rect x="1004" y="94" width="56" height="36" rx="8" class="ink" style="animation:node 2s .5s infinite"/>
+  <rect x="984" y="146" width="56" height="30" rx="8" class="ink" style="animation:node 2s 1s infinite"/>
+  <text x="947" y="118" text-anchor="middle" class="sans" font-size="14" fill="#2d2a3e">⚡</text>
+  <text x="1032" y="118" text-anchor="middle" class="sans" font-size="13" fill="#2d2a3e">AI</text>
+  <text x="1012" y="166" text-anchor="middle" class="sans" font-size="11" fill="#2d2a3e">CRM</text>
+
+  <!-- ===================== CALENDAR ===================== -->
+  <rect x="960" y="244" width="130" height="116" rx="10" fill="#fff6d5" class="ink"/>
+  <rect x="960" y="244" width="130" height="30" rx="10" fill="#2d2a3e"/>
+  <rect x="960" y="262" width="130" height="12" fill="#2d2a3e"/>
+  <line x1="988" y1="234" x2="988" y2="254" class="ink"/><line x1="1062" y1="234" x2="1062" y2="254" class="ink"/>
+  <g fill="#2d2a3e" opacity=".85">
+    <rect x="976" y="288" width="18" height="14" rx="2"/><rect x="1002" y="288" width="18" height="14" rx="2"/><rect x="1028" y="288" width="18" height="14" rx="2"/><rect x="1054" y="288" width="18" height="14" rx="2"/>
+    <rect x="976" y="312" width="18" height="14" rx="2"/><rect x="1002" y="312" width="18" height="14" rx="2"/><rect x="1054" y="312" width="18" height="14" rx="2"/>
+    <rect x="976" y="336" width="18" height="14" rx="2"/><rect x="1002" y="336" width="18" height="14" rx="2"/><rect x="1028" y="336" width="18" height="14" rx="2"/>
+  </g>
+  <g class="fb" style="animation:pop 9s infinite">
+    <circle cx="1037" cy="319" r="15" fill="#7cf29a" class="ink" stroke-width="4"/>
+    <path d="M1030 319 l5 5 l9 -10" fill="none" class="ink" stroke-width="4"/>
+  </g>
+
+  <!-- ===================== INVOICE PRINTER ===================== -->
+  <g>
+    <rect x="884" y="430" width="100" height="62" fill="#ffffff" class="ink" stroke-width="5" style="animation:print 9s ease-in-out infinite"/>
+    <g style="animation:print 9s ease-in-out infinite">
+      <rect x="898" y="444" width="50" height="6" rx="3" fill="#2d2a3e"/>
+      <rect x="898" y="458" width="72" height="4" rx="2" fill="#2d2a3e" opacity=".6"/>
+      <rect x="898" y="468" width="60" height="4" rx="2" fill="#2d2a3e" opacity=".6"/>
+      <text x="934" y="486" text-anchor="middle" class="sans" font-size="15" fill="#e11d48" style="animation:stamp 9s infinite; transform-box:fill-box; transform-origin:center">PAID</text>
+    </g>
+    <rect x="862" y="420" width="144" height="76" rx="10" fill="#fff6d5" class="ink"/>
+    <rect x="878" y="432" width="112" height="10" rx="5" fill="#2d2a3e"/>
+    <circle class="led" cx="888" cy="472" r="5" fill="#7cf29a"/>
+    <rect x="904" y="466" width="40" height="12" rx="3" fill="#2d2a3e"/>
+    <rect x="954" y="466" width="36" height="12" rx="3" fill="#2d2a3e" opacity=".5"/>
+  </g>
+</svg>
