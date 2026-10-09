@@ -1,86 +1,120 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*SazB8drLx74W-bFBqag9zA.gif)](https://github.com/randy-kip)
-<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Randy... call me RK🕶️</h1>
-<h3 align="center">A FullStack Web Dev</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
-<a href="https://app.daily.dev/rk_4"><img  align="right" src="https://api.daily.dev/devcards/5a9bcb5c92904c91abf4d902d0938acf.png?r=70f" width="300" alt="Randy K's Dev Card"/></a>
+<!-- ============ HEADER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:f59e0b&height=200&section=header&text=Hi%2C%20I'm%20Randy%20%E2%80%94%20call%20me%20RK&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%20%26%20Automation%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="RK banner" />
+</p>
 
-<!--<a href="https://app.daily.dev/rk_4"><img align="right" src="./devcard.png" width="300" alt="Randy's V2 Daily Dev Card"/></a> -->
+<p align="center">
+  <a href="https://github.com/randy-kip">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F59E0B&center=true&vCenter=true&width=640&lines=Building+AI+agents+that+do+real+work+%F0%9F%A4%96;Automating+businesses+across+Africa+%F0%9F%8C%8D;Shipping+with+Claude+Code%2C+Codex+%26+n8n+%E2%9A%A1;React+%E2%80%A2+Rails+%E2%80%A2+Next.js+%E2%80%A2+Python" alt="Typing intro" />
+  </a>
+</p>
 
-<!-- <a href="https://app.daily.dev/rk_4"><img align="right" src="https://api.daily.dev/devcards/v2/IIAwLDXXINjaUFK9AFi7P.png?type=default&r=fd7" width="300" alt="Randy K's Dev Card"/></a> -->
-
-
-<!--
-**randy-kip/randy-kip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="left">
-      <a href="https://github.com/randy-kip?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/randy-kip?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/randy-kip?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/randy-kip?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="center">
+  <a href="https://kidaflow.com"><img src="https://img.shields.io/badge/Kidaflow-Business%20Growth-6d28d9?style=for-the-badge&logo=rocket&logoColor=white" alt="Kidaflow" /></a>
+  <a href="https://simplydoneafrica.com"><img src="https://img.shields.io/badge/Simply%20Done%20Africa-AI%20Automation-f59e0b?style=for-the-badge&logo=robotframework&logoColor=white" alt="Simply Done Africa" /></a>
+  <a href="https://github.com/randy-kip?tab=followers"><img src="https://img.shields.io/github/followers/randy-kip?style=for-the-badge&logo=github&label=Follow&color=1f2937" alt="Followers" /></a>
+</p>
 
 ---
 
-- 🔭 I’m currently working on **Personal Portfolio/Freelance Prediction Data Analysis**
-- 🌱 I’m currently deeply exploring **Quantum Computing**
-- 💬 Ask me about **ReactJS and Ruby on Rails**
+<!-- ============ ABOUT ============ -->
+<a href="https://app.daily.dev/rk_4"><img align="right" src="https://api.daily.dev/devcards/5a9bcb5c92904c91abf4d902d0938acf.png?r=70f" width="280" alt="Randy K's Dev Card" /></a>
+
+### 👋 About me
+
+I'm a **full-stack web developer** turned **AI & automation builder**. I help businesses go from
+manual, spreadsheet-driven work to systems that run themselves — AI agents, custom CRMs,
+workflow automation, and the web apps that tie it all together.
+
+- 🚀 Building **[Kidaflow](https://kidaflow.com)** — taking businesses to the next level through transformation & growth
+- 🤖 Building **[Simply Done Africa](https://simplydoneafrica.com)** — AI agents & automation for real estate and service companies in Kenya
+- 🧠 Living in the agentic era: **Claude Code, Codex, MCP servers, n8n & Make**
+- 🎓 Teaching businesses (and devs) how to actually put AI to work
+- ⚛️ Still happy to talk **React, Next.js & Ruby on Rails** — and a bit of **Quantum Computing** 🔭
+
+<br clear="right" />
 
 ---
 
-### 🧰 Languages and Tools
+<!-- ============ AI STACK ============ -->
+### 🤖 AI & Automation Stack
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"/>
-<img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/>
-          
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
-<br />
+### 🧰 Languages & Frameworks
 
-#
-<br />
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,ruby,html,css,react,nextjs,rails,nodejs,tailwind,flutter,git,linux,vscode&perline=15" alt="Tech stack" />
+  </a>
+</p>
 
-### 📊 Stats
+---
 
+<!-- ============ PROJECTS ============ -->
+### 🛠️ What I'm Building
 
-<!-- ![RK's GitHub stats](https://github-readme-stats.vercel.app/api?username=randy-kip&show_icons=true&theme=radical) -->
+| Project | What it does | Stack |
+| --- | --- | --- |
+| 🚀 **[Kidaflow](https://kidaflow.com)** | Business transformation & growth — strategy, systems and automation for SMEs | Web · AI · Automation |
+| 🤖 **[Simply Done Africa](https://simplydoneafrica.com)** | AI customer service, custom CRMs, invoicing & lead gen for Kenyan real estate and service businesses | AI Agents · Automation |
+| ✍️ **[LinkedIn Content Engine](https://github.com/randy-kip/Automated-LinkedIn-Content-Engine-with-GenAI-Capstone-Project)** | n8n + Make blueprints that research AI news and turn it into ready-to-post LinkedIn content | n8n · Make · GenAI |
+| 🌐 **[3D Portfolio](https://github.com/randy-kip/randy_k_portfolio)** | Interactive portfolio with React Three Fiber and custom animations | React · Vite · R3F |
+| 🛍️ **[Nahla Naturals](https://github.com/randy-kip/nahla-naturals)** | E-commerce store on Sanity CMS, plus an [M-Pesa Rails integration](https://github.com/randy-kip/ROR_Mpesa_nahla-naturals) | Next.js · Sanity · Rails |
+| 📈 **[Freelance Prediction](https://github.com/randy-kip/freelance-prediction)** | Data analysis & ML on freelance market trends | Python · Jupyter |
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+---
 
-<!-- <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=randy-kip&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="randy-kip" /></p> 
-&nbsp; -->
-<p><!-- &nbsp; --><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=randy-kip&show_icons=true&locale=en&theme=highcontrast" alt="randy-kip" /></p>
+<!-- ============ STATS ============ -->
+### 📊 GitHub Stats
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randy-kip&&theme=sunset-gradient" alt="randy-kip" /></p> -->
+<!-- Cards are generated daily by .github/workflows/profile-cards.yml using the repo's own token — no external server to break. -->
+<p align="center">
+  <img height="170" src="./profile/stats.svg" alt="RK's GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+</p>
 
-<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=randy-kip&theme=sunset-gradient" alt="GitHub Streak" /></a> -->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=randy-kip&theme=radical)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=randy-kip&theme=radical" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=randy-kip&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=randy-kip&theme=catppuccin-frappe)](https://git.io/streak-stats) -->
-#
+<p align="center">
+  <img src="./profile/snake.svg" alt="Contribution snake" />
+</p>
 
-<details>
-      <summary><h3>👨‍💻 RK</h3></summary>
-      <p>Amazing Projects Ahead!</p>
+---
+
+<!-- ============ ACTIVITY ============ -->
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<!-- ============ CONNECT ============ -->
+### 🤝 Let's Work Together
+
+Want to automate your business, ship an AI agent, or just talk shop about Claude & Codex?
+
+<p>
+  <a href="https://kidaflow.com"><img src="https://img.shields.io/badge/Work%20with%20Kidaflow-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kidaflow" /></a>
+  <a href="https://simplydoneafrica.com"><img src="https://img.shields.io/badge/Automate%20with%20Simply%20Done-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Simply Done Africa" /></a>
+  <a href="https://app.daily.dev/rk_4"><img src="https://img.shields.io/badge/daily.dev-rk__4-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:6d28d9,100:0f172a&height=110&section=footer" alt="footer" />
+</p>
