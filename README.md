@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:f59e0b&height=200&section=header&text=Hi%2C%20I%27m%20Randy%20%E2%80%94%20call%20me%20RK&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%20%26%20Automation%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="RK banner" />
+  <img src="./profile/banner.svg" width="100%" alt="Hi, I'm Randy — call me RK" />
 </p>
 
 <p align="center">
