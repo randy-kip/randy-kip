@@ -30,52 +30,82 @@
 
 ### 🤖 AI, Automation & CRM
 
-<img align="left" alt="Claude" title="Claude" width="30px" style="padding-right:10px;" src="./profile/icons/claude.svg" />
-<img align="left" alt="OpenAI / Codex" title="OpenAI / Codex" width="30px" style="padding-right:10px;" src="./profile/icons/openai.svg" />
-<img align="left" alt="Gemini" title="Gemini" width="30px" style="padding-right:10px;" src="./profile/icons/gemini.svg" />
-<img align="left" alt="GitHub Copilot" title="GitHub Copilot" width="30px" style="padding-right:10px;" src="./profile/icons/copilot.svg" />
-<img align="left" alt="Cursor" title="Cursor" width="30px" style="padding-right:10px;" src="./profile/icons/cursor.svg" />
-<img align="left" alt="MCP" title="Model Context Protocol" width="30px" style="padding-right:10px;" src="./profile/icons/mcp.svg" />
-<img align="left" alt="Hugging Face" title="Hugging Face" width="30px" style="padding-right:10px;" src="./profile/icons/huggingface.svg" />
-<img align="left" alt="LangChain" title="LangChain" width="30px" style="padding-right:10px;" src="./profile/icons/langchain.svg" />
-<img align="left" alt="n8n" title="n8n" width="30px" style="padding-right:10px;" src="./profile/icons/n8n.svg" />
-<img align="left" alt="Make" title="Make" width="30px" style="padding-right:10px;" src="./profile/icons/make.svg" />
-<img align="left" alt="Zapier" title="Zapier" width="30px" style="padding-right:10px;" src="./profile/icons/zapier.svg" />
-<img align="left" alt="GoHighLevel" title="GoHighLevel" width="30px" style="padding-right:10px;" src="./profile/icons/gohighlevel.png" />
-<img align="left" alt="HubSpot" title="HubSpot" width="30px" style="padding-right:10px;" src="./profile/icons/hubspot.svg" />
-<img align="left" alt="Airtable" title="Airtable" width="30px" style="padding-right:10px;" src="./profile/icons/airtable.svg" />
-<img align="left" alt="Notion" title="Notion" width="30px" style="padding-right:10px;" src="./profile/icons/notion.svg" />
-<img align="left" alt="Supabase" title="Supabase" width="30px" style="padding-right:10px;" src="./profile/icons/supabase.svg" />
-<img align="left" alt="Vercel" title="Vercel" width="30px" style="padding-right:10px;" src="./profile/icons/vercel.svg" />
+<p>
+  <img alt="Claude" title="Claude" width="32" height="32" src="./profile/icons/claude.svg" />
+&nbsp;&nbsp;
+  <img alt="OpenAI / Codex" title="OpenAI / Codex" width="32" height="32" src="./profile/icons/openai.svg" />
+&nbsp;&nbsp;
+  <img alt="Gemini" title="Gemini" width="32" height="32" src="./profile/icons/gemini.svg" />
+&nbsp;&nbsp;
+  <img alt="GitHub Copilot" title="GitHub Copilot" width="32" height="32" src="./profile/icons/copilot.svg" />
+&nbsp;&nbsp;
+  <img alt="Cursor" title="Cursor" width="32" height="32" src="./profile/icons/cursor.svg" />
+&nbsp;&nbsp;
+  <img alt="MCP" title="Model Context Protocol" width="32" height="32" src="./profile/icons/mcp.svg" />
+&nbsp;&nbsp;
+  <img alt="Hugging Face" title="Hugging Face" width="32" height="32" src="./profile/icons/huggingface.svg" />
+&nbsp;&nbsp;
+  <img alt="LangChain" title="LangChain" width="32" height="32" src="./profile/icons/langchain.svg" />
+</p>
 
-<br clear="all" />
+<p>
+  <img alt="n8n" title="n8n" width="32" height="32" src="./profile/icons/n8n.svg" />
+&nbsp;&nbsp;
+  <img alt="Make" title="Make" width="32" height="32" src="./profile/icons/make.svg" />
+&nbsp;&nbsp;
+  <img alt="Zapier" title="Zapier" width="32" height="32" src="./profile/icons/zapier.svg" />
+&nbsp;&nbsp;
+  <img alt="GoHighLevel" title="GoHighLevel" width="32" height="32" src="./profile/icons/gohighlevel.png" />
+&nbsp;&nbsp;
+  <img alt="HubSpot" title="HubSpot" width="32" height="32" src="./profile/icons/hubspot.svg" />
+&nbsp;&nbsp;
+  <img alt="Airtable" title="Airtable" width="32" height="32" src="./profile/icons/airtable.svg" />
+&nbsp;&nbsp;
+  <img alt="Notion" title="Notion" width="32" height="32" src="./profile/icons/notion.svg" />
+&nbsp;&nbsp;
+  <img alt="Supabase" title="Supabase" width="32" height="32" src="./profile/icons/supabase.svg" />
+&nbsp;&nbsp;
+  <img alt="Vercel" title="Vercel" width="32" height="32" src="./profile/icons/vercel.svg" />
+</p>
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"/>
-<img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-<br clear="left" />
+<p>
+  <img alt="Git" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+&nbsp;&nbsp;
+  <img alt="Linux" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+&nbsp;&nbsp;
+  <img alt="HTML" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+&nbsp;&nbsp;
+  <img alt="CSS" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+&nbsp;&nbsp;
+  <img alt="JavaScript" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+&nbsp;&nbsp;
+  <img alt="TypeScript" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+&nbsp;&nbsp;
+  <img alt="Python" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+&nbsp;&nbsp;
+  <img alt="React" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+&nbsp;&nbsp;
+  <img alt="Next.js" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+&nbsp;&nbsp;
+  <img alt="Ruby" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"/>
+&nbsp;&nbsp;
+  <img alt="Rails" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/>
+&nbsp;&nbsp;
+  <img alt="GitHub" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+&nbsp;&nbsp;
+  <img alt="VSCode" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
 
 ---
 
 ### 📊 Stats
 
-<!-- Cards are generated daily by .github/workflows/profile-cards.yml using the repo's own token — no external server to break. -->
+<!-- Cards are generated daily by .github/workflows/profile-cards.yml and published to the `output` branch. -->
 <p align="center">
-  <img height="170" src="./profile/stats.svg" alt="RK's GitHub stats" />
-  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+  <img height="170" src="https://raw.githubusercontent.com/randy-kip/randy-kip/output/stats.svg" alt="RK's GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/randy-kip/randy-kip/output/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -83,12 +113,5 @@
 </p>
 
 <p align="center">
-  <img src="./profile/snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/randy-kip/randy-kip/output/snake.svg" alt="Contribution snake" />
 </p>
-
----
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
