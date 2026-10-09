@@ -21,6 +21,8 @@
 - 🧠 Shipping with **Claude Code, Codex, n8n & GoHighLevel**
 - 💬 Ask me about **AI automation, React & Ruby on Rails**
 
+<br clear="right" />
+
 ---
 
 ### 🧰 Languages and Tools
